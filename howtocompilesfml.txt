@@ -1,0 +1,1 @@
+g++ life.cpp Game.cpp gameObject.cpp cell.cpp board.cpp -o blank.exe -Lc:\sfml21\lib -Ic:\sfml21\include -lsfml-graphics -lsfml-window -lsfml-system -lsfml-audio
